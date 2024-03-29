@@ -1,8 +1,10 @@
-
+import Chai from "./pokemon";
 
 function App() {
   return (
-    <h1>Sushil Is a Good Boy !</h1>
+    <>
+    <Chai/>
+    </>
   );
 }
 
